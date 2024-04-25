@@ -6,7 +6,7 @@ date: 2023-14-04T05:00:00Z
 image: "/images/Data-Conversion.png"
 categories: ["Technology", "Data"]
 author: "Sparsh Kandpal"
-tags: ["technology", "tailwind"]
+tags: ["technology", "Big Data Computing"]
 draft: false
 ---
 

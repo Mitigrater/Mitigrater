@@ -6,7 +6,7 @@ date: 2023-14-04T05:00:00Z
 image: "/images/og-image.png"
 categories: ["Software"]
 author: "Sparsh Kandpal"
-tags: ["software", "tailwind"]
+tags: ["software", "Innovation"]
 draft: false
 ---
 

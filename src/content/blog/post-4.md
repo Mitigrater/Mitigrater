@@ -6,7 +6,7 @@ date: 2023-14-04T05:00:00Z
 image: "/images/emergency.jpg"
 categories: ["Architecture"]
 author: "Spandan Mukherjee"
-tags: ["silicon", "technology"]
+tags: ["Software", "technology"]
 draft: false
 ---
 

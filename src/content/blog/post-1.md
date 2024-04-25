@@ -6,7 +6,7 @@ date: 2023-14-04T05:00:00Z
 image: "/images/service-2.png"
 categories: ["Application", "Data"]
 author: "Spandan Mukherjee"
-tags: ["nextjs", "tailwind"]
+tags: ["Cloud", "OS"]
 draft: false
 ---
 
